@@ -1,5 +1,4 @@
 
-
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -16,5 +15,5 @@ for(i=0;i<10;i++)
  { 
  printf("\n a[%d]=%d",i,a[i]); 
  } 
- getch(); 
+// getch(); 
  }
